@@ -1,7 +1,10 @@
+# Become A Hacker
+
 This repository is an overview of what you need to learn penetration testing and a collection of hacking tools, resources and references to practice ethical hacking. Most of the tools are UNIX compatible, free and open source.
 
 
 ----
+
 
 ## Before you start
 
@@ -12,6 +15,7 @@ This repository is an overview of what you need to learn penetration testing and
 - Read books, manuals, articles, be curious and not just a [script kiddie](https://www.wikihow.com/Avoid-Becoming-a-Script-Kiddie).
 - I wish you don't use these tools for illegal purposes, but if you do, I sure hope you know what you're doing.
 - Practice using [challenges](#challenges), not real targets!
+
 
 # Table of Contents
 
@@ -40,7 +44,6 @@ This repository is an overview of what you need to learn penetration testing and
   - [Challenges](#challenges)
 
 
-(TOC made with [nGitHubTOC](https://imthenachoman.github.io/nGitHubTOC/))
 
 # Introduction
 
@@ -58,7 +61,7 @@ This repository aims first to establish a reflection method on penetration testi
 
 Also, this is important to inform yourself about the law and what you are allowed to do or not. According to your country, the computer laws are not the same. First, check laws about privacy and surveillance: [Nine eyes countries](https://en.wikipedia.org/wiki/Five_Eyes#Other_international_cooperatives), [Five eyes](https://en.wikipedia.org/wiki/Five_Eyes) and Fourteen Eyes. Always check if what you're doing is legal. Even when it's not offensive, information gathering can also be illegal!
 
-([Table of Contents](#table-of-contents))
+
 
 # Some vocabulary
 
@@ -82,13 +85,13 @@ Also, this is important to inform yourself about the law and what you are allowe
 
 **Threat analyst**: A threat hunter, also called a cybersecurity threat analyst, is a security professional or managed service provider (MSP) that proactively uses manual or machine-assisted techniques to detect security incidents that may elude the grasp of automated systems. Threat hunters aim to uncover incidents that an enterprise would otherwise not find out about, providing chief information security officers (CISOs) and chief information officers (CIOs) with an additional line of defense against advanced persistent threats (APTs). [SearchCIO](https://searchcio.techtarget.com/definition/threat-hunter-cybersecurity-threat-analyst)
 
-([Table of Contents](#table-of-contents))
+
 
 # Difference between hacking and ethical hacking
 
 A black hat is practicing penetration testing, but unlike a white hat, this is not ethical hacking. Ethical hacking is about finding vulnerabilities and improve the security of a system. An ethical hacker is the ultimate security professional. Ethical hackers know how to find and exploit vulnerabilities and weaknesses in various systems, just like a malicious hacker (a black hat hacker). In fact, they both use the same skills; however, an ethical hacker uses those skills in a legitimate, lawful manner to try to find vulnerabilities and fix them before the bad guys can get there and try to break in. An ethical hacker is basically a white hat hacker.
 
-([Table of Contents](#table-of-contents))
+
 
 # Languages
 
@@ -115,7 +118,7 @@ Since not all languages work the same way, you need to look at how they work and
 - PHP
 - Go
 
-([Table of Contents](#table-of-contents))
+
 
 # Content Management Systems
 
@@ -126,7 +129,7 @@ Since not all languages work the same way, you need to look at how they work and
 
 These are the most used Content Management Systems (CMS). See a complete list [here](https://en.wikipedia.org/wiki/List_of_content_management_systems).
 
-([Table of Contents](#table-of-contents))
+
 
 # Basic steps of pen testing
 
@@ -138,7 +141,7 @@ These are the most used Content Management Systems (CMS). See a complete list [h
 
 [Read more about pen testing methodology](https://www.tutorialspoint.com/penetration_testing/penetration_testing_method.htm)
 
-([Table of Contents](#table-of-contents))
+
 
 # Tools by category
 
@@ -201,7 +204,7 @@ Acesss systems and data with service-oriented exploits.
 | ------------------------------------------------------- | ---------- | --------------------- | ------------------------------------------------------------ |
 | [SQLmap](https://github.com/sqlmapproject/sqlmap)       | **Python** | `Linux/Windows/macOS` | Automatic SQL injection and database takeover tool.          |
 | [XSStrike](https://github.com/UltimateHackers/XSStrike) | **Python** | `Linux/Windows/macOS` | Advanced XSS detection and exploitation suite.               |
-| [Commix](https://github.com/commixproject/commix)       | **Python** | `Linux/Windows/macOS` | Automated All-in-One OS command injection and exploitation tool.￼ |
+| [Commix](https://github.com/commixproject/commix)       | **Python** | `Linux/Windows/macOS` | Automated All-in-One OS command injection and exploitation tool.  |
 | [Nuclei](https://github.com/projectdiscovery/nuclei)    | **Go**     | `Linux/Windows/macOS` | Fast and customisable vulnerability scanner based on simple YAML based DSL. |
 
 #### :busts_in_silhouette: Sniffing & Spoofing
@@ -249,7 +252,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 | [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)      | **Python** | `Linux/Windows/macOS` | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. |
 | [Burp Suite](https://portswigger.net/burp)      | **Java** | `Linux/Windows/macOS` | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger. **This tool is not free and open source** |
 
-([Table of Contents](#table-of-contents))
+
 
 # Additional resources
 
@@ -309,4 +312,4 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [TryHackMe](https://tryhackme.com/) - TryHackMe is a free online platform for learning cyber security, using hands-on exercises and labs.
 - [PicoCTF](https://picoctf.org/) - Provides you with fun CTF challenges of varying levels of difficulty to practice on.
 
-([Table of Contents](#table-of-contents))
+
